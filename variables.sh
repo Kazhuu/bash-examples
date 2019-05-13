@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Initialize variables.
+# Initialize variables. Variable assigments cannot have spaces between '='.
 greeting="Welcome"
 user=$(whoami)
 day=$(date +%A)
