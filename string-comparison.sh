@@ -7,6 +7,8 @@
 # Test command result can be accessed with variable '$?' like function status
 # code. When test evaluates to true it will be 0 and when false it will be 1.
 
+# See man page of [ for more information.
+
 # String comparison is done with following operators:
 # less than         <
 # greater than      >
